@@ -8,6 +8,8 @@ public class PrviApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(PrviApplication.class, args);
+                
+                System.out.println("Promena");
 	}
 
 }
